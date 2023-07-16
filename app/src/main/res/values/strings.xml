@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Gymy</string>
+    <string name="login">Login</string>
+    <string-array name="Exercises">
+        <item>Bench Press</item>
+        <item>Dumbbell Press</item>
+        <item>Incline Bench Press</item>
+        <item>Shoulder Press</item>
+        <item> Pushdown</item>
+        <item>Pull up</item>
+        <item>Pushdownquad</item>
+        <item>Extensions</item>
+
+    </string-array>
+</resources>
